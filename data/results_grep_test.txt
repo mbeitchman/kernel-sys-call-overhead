@@ -1,0 +1,17 @@
+
+grep measurements
+5 iterations
+
+Delay: loop count Elapsed average: microseconds
+
+Delay: 0 Elapsed average: 89755
+Delay: 50 Elapsed average: 3324954
+Delay: 100 Elapsed average: 6576183
+Delay: 150 Elapsed average: 9815178
+Delay: 200 Elapsed average: 13218775
+Delay: 250 Elapsed average: 17186122
+Delay: 300 Elapsed average: 20224894
+Delay: 350 Elapsed average: 25121389
+Delay: 400 Elapsed average: 29591796
+Delay: 450 Elapsed average: 34261388
+Delay: 500 Elapsed average: 42328581

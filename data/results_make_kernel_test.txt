@@ -1,0 +1,12 @@
+
+make kernel measurements
+3 iterations
+
+Delay: loop count Elapsed average: microseconds
+
+Delay: 0 Elapsed average: 46523519
+Delay: 50 Elapsed average: 184852503
+Delay: 100 Elapsed average: 333629656
+Delay: 150 Elapsed average: 478739430
+Delay: 200 Elapsed average: 636143721
+Delay: 250 Elapsed average: 805301264

@@ -1,0 +1,27 @@
+
+Close(100) measurements
+10000 iterations
+
+Delay: loop count Elapsed average: microseconds
+
+Delay: 0 Elapsed average: 0
+Delay: 50 Elapsed average: 57
+Delay: 100 Elapsed average: 112
+Delay: 150 Elapsed average: 169
+Delay: 200 Elapsed average: 226
+Delay: 250 Elapsed average: 289
+Delay: 300 Elapsed average: 350
+Delay: 350 Elapsed average: 424
+Delay: 400 Elapsed average: 495
+Delay: 450 Elapsed average: 563
+Delay: 500 Elapsed average: 624
+Delay: 550 Elapsed average: 663
+Delay: 600 Elapsed average: 732
+Delay: 650 Elapsed average: 799
+Delay: 700 Elapsed average: 898
+Delay: 750 Elapsed average: 951
+Delay: 800 Elapsed average: 1042
+Delay: 850 Elapsed average: 1122
+Delay: 900 Elapsed average: 1204
+Delay: 950 Elapsed average: 1332
+Delay: 1000 Elapsed average: 1399
